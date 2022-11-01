@@ -11,6 +11,7 @@ DailyNation = Magazine.new("DailyNation", "News")
 Nairobians = Magazine.new("Nairobians","Trends")
 article1 = Article.new("WaliBora", "Nation", "leadership")
 article2 = Article.new("Margret Agola", "Nairobians", "culture")
+article2 = Article.new("Margret Agola", "Nairobians", "lifestyle")
 author1 = Author.new("Ken WaliBora")
 author2 = Author.new("Margret Agola")
 
